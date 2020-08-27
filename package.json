@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "tsc --build",
+    "start": "lerna run start"
+  },
+  "devDependencies": {
+    "lerna": "latest",
+    "typescript": "latest"
+  }
+}
