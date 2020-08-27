@@ -459,6 +459,7 @@
       "moduleResolution": 2,
       "outDir": "./lib",
       "rootDir": "./src",
+      "watch": true,
       "configFilePath": "./tsconfig.json"
     },
     "referencedMap": {
