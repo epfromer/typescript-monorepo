@@ -7,7 +7,7 @@
   ],
   "scripts": {
     "build": "tsc --build",
-    "start": "lerna run start"
+    "start": "lerna run start --stream"
   },
   "devDependencies": {
     "lerna": "^3.22.1",

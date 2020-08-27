@@ -22,5 +22,6 @@ There are two packages:
 
 ```bash
 yarn install
+yarn build
 yarn start
 ```
