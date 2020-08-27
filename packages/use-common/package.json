@@ -13,6 +13,6 @@
     "@klonzo/common": "*"
   },
   "devDependencies": {
-    "typescript": "next"
+    "typescript": "latest"
   }
 }

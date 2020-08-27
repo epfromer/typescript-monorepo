@@ -9,6 +9,6 @@
     "build": "tsc --build"
   },
   "devDependencies": {
-    "typescript": "next"
+    "typescript": "latest"
   }
 }

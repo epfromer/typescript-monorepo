@@ -9,7 +9,7 @@
     "start": "lerna run start"
   },
   "devDependencies": {
-    "lerna": "latest",
+    "lerna": "^3.22.1",
     "typescript": "latest"
   }
 }
