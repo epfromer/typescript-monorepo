@@ -25,3 +25,7 @@ yarn install
 yarn build
 yarn start
 ```
+
+Then, change the sayHello string in common and do another yarn start.  Common will be rebuilt automatically.
+
+tsc --build --verbose is used so that you can see the dependency logic tsc uses to determine when to rebuild.
